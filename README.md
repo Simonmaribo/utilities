@@ -9,4 +9,7 @@
 
 ## Authorization
 [**ory.sh**](https://www.ory.sh) - Open Source OAuth2 and OpenID Connect Access Control & API Security  
-[**aws.amazon.com/cognito**](https://aws.amazon.com/cognito/) - Simple and Secure User Sign Up & Sign In
+[**aws.amazon.com/cognito**](https://aws.amazon.com/cognito/) - Simple and Secure User Sign Up & Sign In  
+
+## JavaScript libraries
+[**Toast.js**](https://ireade.github.io/Toast.js) - Creating a FOMO / Popup message in the corner.
